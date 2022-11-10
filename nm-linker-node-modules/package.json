@@ -1,0 +1,7 @@
+{
+  "name": "nm-linker-node-modules",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "lodash.chunk": "^4.2.0"
+  }
+}
